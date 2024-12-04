@@ -1,5 +1,11 @@
 ## Hi there 👋
+This is my README.md file.
 
+Here I will be working on my own configurations and costomistions.
+
+VIM
+TMUX
+SHELL BASH ZSH
 <!--
 **VinayakQED/VinayakQED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
